@@ -1,0 +1,2 @@
+* text=auto !eol
+/file.txt -text svneol=unset#text/plain
