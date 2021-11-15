@@ -1,0 +1,5 @@
+[map "aebc4e91-cc3c-3248-93f2-d0b82798a722"]
+	object = 97a104134ac2eb9cab547f4e5bc858ba9f0039c9
+	path = contrib/supostat
+	stage = sync
+	type = expand module
